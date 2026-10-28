@@ -1,0 +1,122 @@
+[
+  {
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playerType": "Batter",
+    "rating": 94,
+    "battingStyle": "Right Handed",
+    "bowlingStyle": "Right Arm Medium",
+    "price": 9500000,
+    "playerImg": "/players/virat-kohli.png"
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerType": "Batter",
+    "rating": 93,
+    "battingStyle": "Right Handed",
+    "bowlingStyle": "Right Arm Off Break",
+    "price": 9200000,
+    "playerImg": "/players/babar-azam.png"
+  },
+  {
+    "playerName": "Rohit Sharma",
+    "playerCountry": "India",
+    "playerType": "Batter",
+    "rating": 91,
+    "battingStyle": "Right Handed",
+    "bowlingStyle": "Right Arm Off Break",
+    "price": 8800000,
+    "playerImg": "/players/rohit-sharma.png"
+  },
+  {
+    "playerName": "Joe Root",
+    "playerCountry": "England",
+    "playerType": "Batter",
+    "rating": 92,
+    "battingStyle": "Right Handed",
+    "bowlingStyle": "Right Arm Off Break",
+    "price": 9000000,
+    "playerImg": "/players/joe-root.png"
+  },
+  {
+    "playerName": "Steve Smith",
+    "playerCountry": "Australia",
+    "playerType": "Batter",
+    "rating": 91,
+    "battingStyle": "Right Handed",
+    "bowlingStyle": "Right Arm Leg Break",
+    "price": 8700000,
+    "playerImg": "/players/steve-smith.png"
+  },
+  {
+    "playerName": "Glenn Maxwell",
+    "playerCountry": "Australia",
+    "playerType": "All Rounder",
+    "rating": 90,
+    "battingStyle": "Right Handed",
+    "bowlingStyle": "Right Arm Off Break",
+    "price": 8500000,
+    "playerImg": "/players/glenn-maxwell.png"
+  },
+  {
+    "playerName": "Ben Stokes",
+    "playerCountry": "England",
+    "playerType": "All Rounder",
+    "rating": 91,
+    "battingStyle": "Left Handed",
+    "bowlingStyle": "Right Arm Fast Medium",
+    "price": 8800000,
+    "playerImg": "/players/ben-stokes.png"
+  },
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerType": "All Rounder",
+    "rating": 89,
+    "battingStyle": "Left Handed",
+    "bowlingStyle": "Slow Left Arm Orthodox",
+    "price": 8200000,
+    "playerImg": "/players/shakib-al-hasan.png"
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerCountry": "India",
+    "playerType": "Bowler",
+    "rating": 95,
+    "battingStyle": "Right Handed",
+    "bowlingStyle": "Right Arm Fast",
+    "price": 9800000,
+    "playerImg": "/players/jasprit-bumrah.png"
+  },
+  {
+    "playerName": "Mitchell Starc",
+    "playerCountry": "Australia",
+    "playerType": "Bowler",
+    "rating": 91,
+    "battingStyle": "Left Handed",
+    "bowlingStyle": "Left Arm Fast",
+    "price": 9000000,
+    "playerImg": "/players/mitchell-starc.png"
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playerType": "Bowler",
+    "rating": 92,
+    "battingStyle": "Right Handed",
+    "bowlingStyle": "Right Arm Leg Break",
+    "price": 9300000,
+    "playerImg": "/players/rashid-khan.png"
+  },
+  {
+    "playerName": "Shaheen Afridi",
+    "playerCountry": "Pakistan",
+    "playerType": "Bowler",
+    "rating": 90,
+    "battingStyle": "Left Handed",
+    "bowlingStyle": "Left Arm Fast",
+    "price": 8700000,
+    "playerImg": "/players/shaheen-afridi.png"
+  }
+]
